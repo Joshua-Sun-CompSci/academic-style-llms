@@ -1,0 +1,6 @@
+transformers>=4.35.0
+torch
+gradio
+accelerate
+bitsandbytes
+peft
