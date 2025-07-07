@@ -8,7 +8,7 @@ from peft import PeftModel
 hf_token = os.environ.get("HF_TOKEN")
 
 # Adapter repo and base model
-adapter_model = "markteammate/Mistral_academic_style_tune"
+adapter_model = "Joshua-Sun-CompSci/Mistral_academic_style_tune"
 base_model = "mistralai/Mistral-7B-v0.1"
 
 # Quantization config
