@@ -1,4 +1,4 @@
-# 📚 Domain-Specific Fine-Tuning of GPT-2 for Emulating Academic Communication Styles
+# 📚 Academic Style Tuning for LLMs
 
 This project explores the fine-tuning of large language models (LLMs), specifically GPT-2 and Mistral-7B, to better emulate formal academic writing. Using a curated subset of arXiv abstracts, we demonstrate how domain-specific fine-tuning can enhance stylistic fidelity in scholarly communication—though limitations like hallucinations and generic phrasing remain.
 
@@ -7,6 +7,12 @@ This project explores the fine-tuning of large language models (LLMs), specifica
 - **Joshua Sun** (zysun@ucdavis.edu)
 - **Keer Ni** (knni@ucdavis.edu)  
 - **Muhammad Reza** (msreza@ucdavis.edu) 
+
+## 📁 Repository Structure
+
+- 🗂️ Main Project: **[This repo]**
+- 🔬 GPT-2 Fine-Tuning: [markteammate/GPT-2_academic_style_tune](https://github.com/markteammate/GPT-2_academic_style_tune)
+- 🔬 Mistral-7B Fine-Tuning (QLoRA): [markteammate/Mistral_academic_style_tune](https://github.com/markteammate/Mistral_academic_style_tune)
 
 ## 🔍 Motivation
 
