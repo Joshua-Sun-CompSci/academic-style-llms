@@ -11,8 +11,8 @@ This project explores the fine-tuning of large language models (LLMs), specifica
 ## 📁 Repository Structure
 
 - 🗂️ Main Project: **[This repo]**
-- 🔬 GPT-2 Fine-Tuning: [markteammate/GPT-2_academic_style_tune](https://github.com/markteammate/GPT-2_academic_style_tune)
-- 🔬 Mistral-7B Fine-Tuning (QLoRA): [markteammate/Mistral_academic_style_tune](https://github.com/markteammate/Mistral_academic_style_tune)
+- 🔬 GPT-2 Fine-Tuning: [markteammate/GPT-2_academic_style_tune](https://huggingface.co/markteammate/GPT-2_academic_style_tune)
+- 🔬 Mistral-7B Fine-Tuning (QLoRA): [markteammate/Mistral_academic_style_tune](https://huggingface.co/markteammate/Mistral_academic_style_tune)
 
 ## 🔍 Motivation
 
