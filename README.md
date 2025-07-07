@@ -49,4 +49,4 @@ Both models were fine-tuned on ~500K abstracts from the arXiv dataset.
 
 ## 📎 Report
 
-👉 [Final Project Report (PDF)](./ECS271_Report.pdf)
+👉 [Final Project Report (PDF)](./ECS%20271%20Final%20Project%20Report.pdf)
